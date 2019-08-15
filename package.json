@@ -1,0 +1,19 @@
+{
+  "name": "timan",
+  "version": "1.0.0",
+  "description": "Command line interface to get Timezone.",
+  "main": "./src/js/timan/timan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["timan", "timezone", "terminal"],
+  "author": "Israel Júnior <israeljunior.net@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.26"
+  },
+  "bin": "./src/js/timan/timan.js",
+  "preferGlobal": true
+}
