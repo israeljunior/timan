@@ -12,7 +12,7 @@
   "dependencies": {
     "commander": "^3.0.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26"
+    "moment-timezone": "^0.5.35"
   },
   "bin": "./src/js/timan/timan.js",
   "preferGlobal": true
